@@ -1,0 +1,12 @@
+{
+    "clients": [
+        {
+          "id": 227,
+          "GWTower": "LA",
+          "client": "TATATA",
+          "prop": "23",
+          "codClient": "UNI",
+          "propcount": 5
+        }
+      ]
+}
